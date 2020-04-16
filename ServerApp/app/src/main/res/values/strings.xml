@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ServerApp</string>
+    <string name="persistence_hint">Please type some words to save</string>
+    <string name="name_persistence_hint">Enter Name to save</string>
+    <string name="cast_persistence_hint">Enter Cast to save</string>
+</resources>
